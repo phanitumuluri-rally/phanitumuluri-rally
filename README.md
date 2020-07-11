@@ -1,4 +1,4 @@
-### Hi there I'm Phani 👋
+### Hi there, I'm Phani 👋
 
 - 💻 Codes in: Javascript, Ruby, Rails, Angular, React, .Net, Scala.
 - 🔭 I’m currently working on Scala, Angular.
